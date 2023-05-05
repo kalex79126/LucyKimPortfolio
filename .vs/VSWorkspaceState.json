@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\assets\\img\\draping",
+    "\\assets\\img\\drawings"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\assets\\img\\draping\\draping1.jpg",
   "PreviewInSolutionExplorer": false
 }
